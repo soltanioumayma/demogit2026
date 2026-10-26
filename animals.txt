@@ -2,3 +2,5 @@ lion
 chien 
 chat 
 tigre
+papillon
+ours
